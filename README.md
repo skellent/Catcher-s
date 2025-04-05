@@ -8,7 +8,7 @@
 3. [Utilidades](#Utilidades)
 3. [Diséño](#Diseño)
 4. [Sonido](#Sonido)
-5. [GameJolt](#Gamejolt)
+5. [GameJolt](#GameJolt)
 
 ## Cosas Pendientes
 - ### Objetos:
@@ -50,3 +50,10 @@
         - [ ] Sonidos
         - [x] Distribución del mapa
         - [x] Movimiento de los Animatrónicos
+        - [ ] Efectos
+    - [ ] Sala Mantenimiento
+        - [ ] Clasificado . . .
+- ### GameJolt:
+    - GamePage: 
+    - [ ] Trofeos
+    - [ ] Cloud Storage
