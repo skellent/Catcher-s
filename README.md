@@ -1,6 +1,6 @@
 ﻿# Repositorio de Catcher's
-![Thumbnail viejo](src/readme/thumb.png "Thumbnail viejo de Gamejolt")
-> Éste repositorio fue creado con la intencionalidad de almacenar cada una de las actualizaciones en el proyecto de "Catcher's para organizar archivos y evitar posibles perdidas del proyecto"
+![Thumbnail viejo](src/readme/banner.jpg "Thumbnail viejo de Gamejolt")
+> Éste repositorio fue creado con la intencionalidad de almacenar cada una de las actualizaciones en el proyecto de "Catcher's" para organizar archivos y evitar posibles perdidas del proyecto. Cualquier sugerencia o modificación es aceptada siempre y cuando sea para aportar al proyecto.
 
 ## Índice
 1. [Objetos](#objetos)
@@ -54,6 +54,7 @@
     - [ ] Sala Mantenimiento
         - [ ] Clasificado . . .
 - ### GameJolt:
-    - GamePage: 
+    - GamePage: [Link to The Page](https://gamejolt.com/games/catchers/903293)
     - [ ] Trofeos
     - [ ] Cloud Storage
+    - [X] Baner y Thumbnail
