@@ -4,9 +4,9 @@
 
 ## Índice
 1. [Objetos](#objetos)
-2. [Cinemáticas](#Cinemáticas)
+2. [Cinemáticas](#Cinematicas)
 3. [Utilidades](#Utilidades)
-3. [Diséño](#Diséño)
+3. [Diséño](#Diseño)
 4. [Sonido](#Sonido)
 5. [GameJolt](#Gamejolt)
 
@@ -30,7 +30,7 @@
         - [X] Scroll Cámara
         - [ ] Animatrónicos (Slide)
         - [ ] Animatrónicos (Animación Correspondiente)
-- ### Cinemáticas:
+- ### Cinematicas:
     - [ ] Cinemática Introductoria
         - [ ] Animación
         - [ ] Voces Grabadas
@@ -42,7 +42,7 @@
     - [X] Pantalla de Carga
     - [X] Activación/Desactivación de Censuras
     - [ ] Funcionalidad de Censuras
-- ### Diséño:
+- ### Diseño:
     - [x] Animatrónicos
     - [x] Oficina
         - [x] Paredes
