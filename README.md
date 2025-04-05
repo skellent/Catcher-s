@@ -42,7 +42,7 @@
     - [X] Pantalla de Carga
     - [X] Activación/Desactivación de Censuras
     - [ ] Funcionalidad de Censuras
-- ### Diseño:
+- ### Diséño:
     - [x] Animatrónicos
     - [x] Oficina
         - [x] Paredes
