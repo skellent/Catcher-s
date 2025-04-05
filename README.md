@@ -6,9 +6,9 @@
 1. [Objetos](#objetos)
 2. [Cinemáticas](#Cinemáticas)
 3. [Utilidades](#Utilidades)
-3. [Diséño](#objetos)
-4. [Sonido](#objetos)
-5. [GameJolt](#objetos)
+3. [Diséño](#Diséño)
+4. [Sonido](#Sonido)
+5. [GameJolt](#Gamejolt)
 
 ## Cosas Pendientes
 - ### Objetos:
@@ -25,7 +25,7 @@
         - [X] Fondo en Movimiento
         - [ ] Imágenes del fondo
         - [X] Titulo Neon y Normal
-        - [ ] Botones (Comportamiento)
+        - [X] Botones (Comportamiento)
         - [ ] Botones (Redirección)
         - [X] Scroll Cámara
         - [ ] Animatrónicos (Slide)
@@ -36,6 +36,7 @@
         - [ ] Voces Grabadas
         - [ ] Subtitulos
         - [ ] Escritura de dialogos
+    - [ ] Cinemática (Arcade Mode)
 - ### Utilidades:
     - [X] Transición de escena (aparición y desaparición)
     - [X] Pantalla de Carga
