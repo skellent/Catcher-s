@@ -9,6 +9,8 @@
 3. [Diséño](#Diseño)
 4. [Sonido](#Sonido)
 5. [GameJolt](#GameJolt)
+6. [Motor_Gráfico](#Motor_Gráfico)
+7. [Extensiones](#Extensiones)
 
 ## Cosas Pendientes
 - ### Objetos:
@@ -28,8 +30,15 @@
         - [X] Botones (Comportamiento)
         - [ ] Botones (Redirección)
         - [X] Scroll Cámara
-        - [ ] Animatrónicos (Slide)
-        - [ ] Animatrónicos (Animación Correspondiente)
+        - [X] Animatrónicos (Slide)
+        - [X] Animatrónicos (Animación Correspondiente)
+    - [ ] Menú de Configuración:
+        - [X] Pestañas de configuración
+        - [X] Botón para volver
+        - [X] Movilidad del fondo y de la cámara
+        - [X] Imágen del fondo
+        - [ ] Configuración funcional
+        - [ ] Conexión a Gamejolt
 - ### Cinematicas:
     - [ ] Cinemática Introductoria
         - [ ] Animación
@@ -58,3 +67,9 @@
     - [ ] Trofeos
     - [ ] Cloud Storage
     - [X] Baner y Thumbnail
+- ### Motor Gráfico:
+    - Penguinmod (A Turbowarp Mod)
+    - Link: https://penguinmod.com
+- ### Extensiones:
+    - Aquí enlistaré todas la extensiones empleadas en el desarrollo
+    - Algunas son de Turbowarp y otras de PenguinMod (En su mayoría)
